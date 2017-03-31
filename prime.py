@@ -28,3 +28,10 @@ def esPrimo(valor):
         es = False
 
     return es
+
+def sumPrimo(v,b):
+    num = []
+    num = primos()
+    suma = num(v,b)
+
+    return suma
